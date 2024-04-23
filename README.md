@@ -2,7 +2,7 @@
 Welcome to the Cloud Kitchen Analytics Dashboard repository! This repository contains a collection of powerful analytics dashboards designed specifically for multi-location, multi-brand cloud kitchen networks. These dashboards provide insights and tools to track, manage, and optimize sales performance, product trends, and customer behavior in the cloud kitchen industry.
 
 ## Dashboards
-### Sales Dashboard
+### Sales Performance Dashboard
 The Sales Dashboard allows you to track and manage your sales across multiple locations and brands. It provides a comprehensive view of your sales performance, including comparisons of current sales, order quantity, and average order value (AOV) against your targets. Key performance indicators (KPIs) such as Day-over-Day (DOD%), Week-over-Week (WOW%), Month-over-Month (MOM%), and Year-over-Year (YOY%) changes in sales are calculated using Data Analysis Expressions (DAX), giving you valuable insights into your sales trends and patterns. The Sales Dashboard also includes a treemap that visualizes the percentage of sales by the top 10 food item categories. The dashboard offers daily, weekly, monthly, and yearly insights. To navigate through these different time frames, a format button is provided to select the desired duration.
 
 ### Product Trend Dashboard
