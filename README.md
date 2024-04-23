@@ -9,4 +9,10 @@ The Sales Dashboard allows you to track and manage your sales across multiple lo
 The Product Trend Dashboard enables you to analyze the top-selling items in your cloud kitchen network. You can visualize the sales trends of the top 20 items, track item quantity trends, and gain insights into customer behavior and loyalty. The dashboard includes interactive filters for location, brand, date range, week number, and food item slicer, allowing you to customize your analysis and focus on specific data subsets.
 
 ### Customer Performance Dashboard
-The Customer Performance Dashboard provides a comprehensive view of customer-related metrics. You can track the total number of customers over time, analyze new customer acquisition, evaluate customer retention rates, and calculate metrics such as customer acquisition rate and customer retention rate using DAX formulas. The dashboard also includes measures for total customer growth and repeat customer growth. A donut chart visualizes the distribution of customers by sales channel for a selected period. Users can further filter the dashboard based on one or multiple items to gain insights specific to those items.
+The Customer Performance Dashboard provides a comprehensive view of customer-related metrics. You can track the total number of customers over time, analyze new customer acquisition, evaluate customer retention rates, and calculate metrics such as customer acquisition rate and customer retention rate using DAX formulas. The dashboard also includes measures for total customer growth and repeat customer growth. A donut chart visualizes the distribution of customers by sales channel for a selected period. Users can further filter the dashboard based on one or multiple food items to gain insights specific to those items.
+
+## Data Used
+The dashboards in this repository utilize the cloud kitchen multi-brand sales and production data from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/dimagigayanika/multi-brand-food-sales-prodution-data/data).
+
+## Power BI Dashboard
+To view the Cloud Kitchen Analytics Dashboard using Microsoft Power BI, please visit the following link: [Cloud Kitchen Analytics Dashboard - Power BI](https://powerbi.microsoft.com/).
